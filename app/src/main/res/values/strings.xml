@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopupDemo</string>
+    <string name="soft_input_show">键盘弹出</string>
+    <string name="soft_input_close">键盘关闭</string>
+</resources>
